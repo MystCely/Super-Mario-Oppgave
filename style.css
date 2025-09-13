@@ -1,0 +1,17 @@
+img {
+  width: 50px;
+}
+
+.char {
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.char:hover {
+  text-decoration: underline;
+}
+
+.selected {
+  text-decoration: underline;
+}

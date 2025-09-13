@@ -1,0 +1,13 @@
+1. Create variables for each character with pictures
+2. Add button for bowser to attack 
+3. Add button for chosen character to attack
+4. Create a function for chosen character to attack 
+(linked to button chosen character to attack)
+5. Have a function to show the stats of each character when clicked
+6. Create a div for each character's health
+7. HP doesn't go lower than zero
+
+
+Ekstra:
+1. Include mushrooms for both bowser and the characters to 
+regenerate their health
